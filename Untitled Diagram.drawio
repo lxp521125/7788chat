@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" modified="2021-10-17T01:20:08.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="wgroryoBhCi-v8HeI1MF" version="15.3.5" type="github">
+  <diagram id="Cn0DVx1GRRBrE1s4g5YM" name="Page-1">
+    <mxGraphModel dx="946" dy="531" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-3" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-1" target="muPdNcQjNhBOrNwZEtZf-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-1" value="数据裁剪预处理" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="232" width="56" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-5" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-2" target="muPdNcQjNhBOrNwZEtZf-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-2" value="定义模型" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="181" y="232" width="50" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-4" target="muPdNcQjNhBOrNwZEtZf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-4" value="压缩函数" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="311" y="232" width="50" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-6" target="muPdNcQjNhBOrNwZEtZf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-6" value="导出客户端模型" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="441" y="232" width="50" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-8" value="在客户端预测检验效果" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="571" y="232" width="50" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-12" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-10" target="muPdNcQjNhBOrNwZEtZf-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-14" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-10" target="muPdNcQjNhBOrNwZEtZf-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-10" value="模型精简" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="145" y="636" width="82" height="178" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-16" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-11" target="muPdNcQjNhBOrNwZEtZf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-19" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-11" target="muPdNcQjNhBOrNwZEtZf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-22" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-11" target="muPdNcQjNhBOrNwZEtZf-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-11" value="深层压缩" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="300" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-24" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-13" target="muPdNcQjNhBOrNwZEtZf-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-26" value="" style="edgeStyle=entityRelationEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="1" source="muPdNcQjNhBOrNwZEtZf-13" target="muPdNcQjNhBOrNwZEtZf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-13" value="浅层压缩" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="307" y="775" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-15" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;simsun&amp;#34;&quot;&gt;量化减轻计算&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="499" y="499" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-18" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;simsun&amp;#34;&quot;&gt;轻量化网络模型&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="591" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-21" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;simsun&amp;#34;&quot;&gt;网络结构搜索&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="673" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-23" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;simsun&amp;#34;&quot;&gt;裁剪神经网络&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="500" y="748" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="muPdNcQjNhBOrNwZEtZf-25" value="&lt;span lang=&quot;ZH-CN&quot; style=&quot;font-size: 10.5pt ; font-family: &amp;#34;simsun&amp;#34;&quot;&gt;模型蒸馏&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;hachureGap=4;" vertex="1" parent="1">
+          <mxGeometry x="501" y="829" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
